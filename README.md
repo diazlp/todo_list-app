@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was published at [XXX](https://pokedex-favs.netlify.app/).
+This project was published at [Todo List App](https://todo-list-simple-app.netlify.app/).
 
 ## Available Scripts
 
