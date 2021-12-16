@@ -2,7 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was published at [XXX](https://pokedex-favs.netlify.app/).
+
 ## Available Scripts
+
+To configure the project after downloading/cloning this repository, first you need to run:
+
+### `npm install`
+
+to install the dependecies
 
 In the project directory, you can run:
 
